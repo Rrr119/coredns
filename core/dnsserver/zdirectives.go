@@ -71,5 +71,6 @@ var Directives = []string{
 	"on",
 	"sign",
 	"view",
+	"policy",
 	"nomad",
 }

@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid36775",
+  "B": "/home/dev/feedback/uid36775",
+  "sha": "c1a3f3ba830a2a43f042e53510172e31f849703c",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "coredns",
+    "repo": "coredns",
+    "sha": "c1a3f3ba830a2a43f042e53510172e31f849703c"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "coredns",
+    "cloneUrl": "https://github.com/Rrr119/coredns.git"
+  },
+  "at": "2026-11-23T17:48:51.832Z"
+}

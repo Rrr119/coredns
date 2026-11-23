@@ -46,6 +46,7 @@ import (
 	_ "github.com/coredns/coredns/plugin/multisocket"
 	_ "github.com/coredns/coredns/plugin/nomad"
 	_ "github.com/coredns/coredns/plugin/nsid"
+	_ "github.com/coredns/coredns/plugin/policy"
 	_ "github.com/coredns/coredns/plugin/pprof"
 	_ "github.com/coredns/coredns/plugin/proxyproto"
 	_ "github.com/coredns/coredns/plugin/quic"
